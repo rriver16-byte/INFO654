@@ -1,0 +1,190 @@
+#header {width: 108%; 
+        text-align: left;
+        border-radius:5px;
+        margin: -60; 
+        font-family: sans-serif; 
+        font-size: x-large; 
+        color:white;    
+        padding: 6px}
+
+a:hover {color: blue}
+a:visited {color: purple}
+
+#header {background-color: black;}
+
+#headertext {position: relative; 
+            top: 62px; 
+            font-size: 36px}
+
+.row1{display:flex}
+
+.column1{flex:32%}
+
+img {height: 100%; padding: -5vw}
+
+#largecontainer1 {margin:1vw; 
+                margin-left: 0;
+                margin-top: 0;
+                margin-right: 0;
+                padding-right: -28vw;
+                width: 88vw;
+                height:20vw; 
+                display:flex;
+                justify-content: space-around;
+                gap:-1vw;}
+
+#container {height: 19vw; 
+            margin:13px; 
+            width: 61vw}
+
+#container2 {
+    height: 18vw; 
+    margin-left: -6vw;
+    margin-right: 0;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    padding-left: 0;
+    width: 17vw;
+    padding-right: 2px;
+    border: solid; 
+    border-radius: 10px;}
+    
+
+.textbox { display:inline-flex;
+    width:9vw;
+min-height: 121px;
+font-family: sans-serif }
+
+#lefttextbox {margin:-6px;
+        margin-left: 4vw;
+       padding-right: -18vw;
+        padding-left:1vw; 
+        height:19vw; 
+        border:3px solid black;     
+        width:52.6vw;  
+        display:inline-flexbox;
+        border-radius: 15px;
+        font-family: sans-serif}
+
+#upperlefttext {margin:-2vw;
+        margin-left: -6vw; 
+        padding-left:-42px; 
+        margin-bottom: 01vw;
+        padding: 3vw;
+        margin-top: -2vw;
+        height:7vw;     
+        width:60vw;  
+        display: flexbox;
+        border-radius: 10px}
+
+#bottomlefttext {margin:-6vw;
+        margin-left: -3vw; 
+        margin-right:34vw;
+        padding: 0;
+        padding-top: 5vw;
+        height:7vw;     
+        width:65vw;  
+        display: flexbox;
+        border-radius: 10px}
+
+
+
+
+
+.footer {padding: 4vw; 
+    position: absolute;
+    width: 100%; 
+    text-align: center; 
+    font-weight:bold; 
+    font-size: xx-large; 
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin: -32px; 
+    margin-top:8vw; 
+    margin-bottom:-3vw;}
+
+#footer:hover {color: gray}
+
+
+.row {display: flex;
+        width: 112%;
+        height: 14vw;
+    margin-left: 25px; }
+
+.column {flex:50 auto;
+    padding: 30px; 
+    display:flex; 
+    height: 100%; 
+    width: 100%; 
+    border: solid;
+    margin-right: 36px;
+    border-radius: 10px;}
+
+#imgcontainer {align-content: center;
+            padding-left: -10vw;
+            padding-right: 5vw;
+            padding-bottom: -23vw;
+             margin-right: 10vw;
+            margin-left: 4vw;
+            margin-bottom: -6vw;
+            margin-top: -3vw;
+            height: 34VW;
+            padding: -30vw;}
+
+
+
+nav { display:flex;
+  justify-content:space-around;  
+  padding: 10px; 
+  margin: 0;
+  font-family:sans-serif;
+  color: black}
+
+nav a {text-decoration:none; 
+      color:black; 
+        font-weight:bold}
+
+navright {justify-content:space-around; 
+  list-style: none; 
+  padding: 10px; 
+  margin: 0;
+    font-family:sans-serif;}
+
+h2{font-family: sans-serif;
+   margin: 9vw; 
+    margin-top: 1vw;
+   text-align:left; 
+   margin-bottom: 1px; 
+   text-decoration-line: underline;}
+
+h3{text-indent: -1vw; 
+    margin: 25px;
+    margin-top: 11vw;
+    margin-bottom: -7vw;
+    margin-left:59px;
+    float: left;
+    font-family: sans-serif;
+    font-size:3vw;}
+
+ul {margin: 10px;
+    margin-top: 12vw; 
+    height:12vw;
+    padding: 17vw; 
+    margin-left: 2.4vw;
+    font-family: sans-serif;
+    font-size: 3vw;
+    margin-bottom: 10px; 
+    padding-bottom: 23px;
+    padding-top:6vw}
+
+p {font-size: 2vw;
+margin-top: 1px; margin-bottom: 1px;margin-left: 4vw;margin-right: 4vw}
+.p {font-size: 2vw;
+margin-top: 0; 
+    padding-bottom: -5vw;
+    margin-left: 4vw;
+    margin-right: 4vw;
+    width:53vw;}
+
+  

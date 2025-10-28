@@ -1,0 +1,111 @@
+#header {width: 108%; 
+        text-align: left;
+        border-radius:5px;
+        margin: -62; 
+        font-family: sans-serif; 
+        font-size: x-large; 
+        color:white; 
+        padding: 6px}
+
+#header {background-color: black;}
+
+#headertext {position: relative; top: 62px; font-size: 36px}
+
+#footer {padding: 19px; 
+        position: absolute;
+        width: 100%;
+        text-align: center; 
+        font-weight:bold; 
+        font-size: xx-large; 
+        background-color: black;
+        color: #000000; 
+        border-radius: 10px;
+        margin-top: 0}
+
+a:hover {color: blue}
+a:visited {color: purple}
+
+nav { display:flex;
+  justify-content:space-around;  
+  padding: 10px; 
+  margin: 0;
+  font-family:sans-serif;;color: black}
+
+nav a {text-decoration:none; color:black; 
+    font-weight:bold}
+
+#imgcontainer {height: -6vw;
+            width: 92vw;   
+            margin: 1vw; 
+            margin-bottom: 
+            border: 98px; }
+
+.img {padding-left: 9vw;
+    margin-left: 3vw;
+    display:flexbox;
+      margin-top: 6vw;
+      width: 100vw; 
+      height: 46vw;
+      margin-left:-14px;
+      border:solid;
+      border-radius: 10px}
+
+#table {border: solid; 
+        width: 88vw; 
+        height:137px;
+        font-family: sans-serif; 
+        text-align-last: left;
+        float:left; 
+        display: flex;
+        font-size: x-large;
+        border-radius: 10px;
+          margin-left: 1vw;}
+
+tr{font-family: sans-serif;}
+
+h3 {font-family: sans-serif; 
+    width: 356px; 
+    margin-top: 8vw;
+  margin-bottom: 7px;
+  margin-left: 1vw;}
+.h3 {margin-top: 31vw;
+    margin-left: 1vw;
+    margin-bottom: 25px;
+    font-weight: 1vw}
+ 
+
+input {width: 90vw; 
+      height:300px; 
+      border:solid; 
+      border-radius: 10px;
+      text-align: left;
+  margin-bottom: 1vw;
+  margin-left: 1vw;
+    display: flex;}
+
+#tr {display: flex;}
+
+tr {line-height: initial}
+
+.td {margin-bottom: 45vw}
+
+    .my-button {
+        background-color: #0d0d0d;
+        color: white; 
+        padding: -2vw 16vw 3vw;
+        border: none; 
+        border-radius: 5px; 
+        font-size: 31px; 
+        cursor: pointer; 
+        text-align: center; 
+        text-decoration: none;
+        font-family: sans-serif;
+        display: inline-block;
+        margin-top: 0;
+        margin-bottom: 4vw;
+    }
+
+    .my-button:hover {
+        background-color: #5c5c5c;
+  
+    }

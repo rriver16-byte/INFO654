@@ -1,0 +1,218 @@
+#header {width: 100%; 
+        text-align: left;
+        border-radius:10px;
+        font-family: sans-serif; 
+        font-size: x-large; 
+        color:white;    
+        padding: 6px;
+    background-color: black;}
+
+#headertext {position: relative; 
+            top: 62px; 
+            font-size: 36px}
+
+
+nav { display:flex;
+  justify-content:space-around;  
+  padding: 10px; 
+  margin: 0;
+  font-family:sans-serif;
+  color: black}
+
+nav a {text-decoration:none; 
+      color:black; 
+        font-weight:bold}
+
+a:hover {color: blue}
+a:visited {color: purple}
+
+body {background-color: #ffeed2;
+        margin: -7px;
+        height: 100%;
+        }
+
+h2{font-family: sans-serif;
+   margin: 9vw; 
+    margin-top: 1vw;
+   text-align:left; 
+   margin-bottom: 1px; 
+   text-decoration-line: underline;}
+
+h3{text-indent: -1vw; 
+    margin: 25px;
+    margin-top: 35vw;
+    margin-bottom: -7vw;
+    margin-left:59px;
+    float: left;
+    font-family: sans-serif;
+    font-size:3vw;}
+
+ul {margin: 10px;
+    margin-top: 38vw; 
+    height:12vw;
+    padding: 7vw; 
+    margin-left: 2.6vw;
+    font-family: sans-serif;
+    font-size: 2vw;
+    margin-bottom: 14px; 
+    padding-bottom: 23px;
+    padding-top:3vw}
+
+p {font-size: 2vw;
+margin-top: 1px; margin-bottom: 1px;margin-left: 4vw;margin-right: 4vw}
+.p {font-size: 2vw;
+margin-top: 0; 
+    padding-bottom: 0;
+    margin-left: 4vw;
+    margin-right: 4vw;
+    width:53vw;}
+
+
+#largecontainer1 {margin:1vw; 
+                margin-left: 0;
+                margin-top: 0;
+                margin-right: 0;
+                padding-right: 9vw;
+                width: 89vw;
+                height:20vw; 
+                display:flex;
+                justify-content: space-around;}
+
+#container {height: 17vw; 
+            margin:13px; 
+            width: 66vw}
+
+#container2 {
+    height: 18vw;
+    margin-right: 0;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    padding-left: 0;
+    width: 17vw;
+    padding-right: 2px; 
+    border-radius: 10px;}
+
+#container2 img {margin-left: 0;
+  width: 108%;
+  height: 101%;
+  object-fit:fill;
+border-radius: 1vw;
+    border:solid black;
+}
+
+#container3 img {margin-left: 0;
+  width: 107%;
+  height: 101%;
+  object-fit:fill;
+border-radius: 1vw;
+}
+    
+
+.textbox {
+    width:9vw;
+min-height: 121px;
+font-family: sans-serif }
+
+#lefttextbox {margin:-6px;
+        margin-left: 4vw;
+        padding-left:1vw; 
+        height:19vw; 
+        border:3px solid black;     
+        width:52.6vw;  
+        border-radius: 15px;
+        font-family: sans-serif}
+
+#upperlefttext {margin:0;
+        margin-left: -6vw;
+        margin-bottom: 1vw;
+        padding: 3vw;
+        margin-top: -2vw;
+        height:7vw;     
+        width:60vw;
+        border-radius: 10px}
+
+#bottomlefttext {margin:-6vw;
+        margin-left: -3vw; 
+        margin-right:34vw;
+        padding: 0;
+        padding-top: 5vw;
+        height:7vw;     
+        width:65vw;
+        }
+
+
+
+
+.column2 {position:absolute;
+    padding: 30px; 
+    height: 42%; 
+    width: 13vw; 
+    margin-top:-6vw;
+    margin-bottom: 5vw;
+    margin-right: 15px;
+    margin-left: -19vw;
+    column-gap: 41vw;
+    }
+
+.column3 {position: absolute;
+    padding: 30px; 
+    height: 38%; 
+    width: 14vw; 
+    margin-top:-6vw;
+    margin-bottom: 6vw;
+    margin-right: 3vw;
+    margin-left: 11vw;
+    column-gap: 19vw;
+    }
+
+.column4 {position: absolute;
+    padding: 30px; 
+    height: 40%; 
+    margin-top:-6vw;
+    margin-bottom: 5vw;
+    margin-right: 25px;
+    margin-left: 37vw;
+    }
+
+
+
+#imgcontainer {margin-right: 1vw;
+            margin-left: 17vw;
+            margin-bottom: -57vw;
+            margin-top: -12vw;
+            padding: 25vw;
+            padding-left: 11vw;
+           position: absolute;
+            width:44vw;}
+
+#imgcontainer img {position: absolute;
+                height:20vw;
+                width: 28vw;
+                object-fit:scale-down;
+                margin:-3vw;
+                margin-left: -5vw;
+                border-radius: 10px;
+            }
+
+
+
+.footer {
+    position:relative;
+    text-align:right; 
+    font-weight:bold; 
+    font-family: sans-serif;
+    font-size: 2vw; 
+    color: #ffffff;
+    bottom: -4vw;
+    right: 1vw; border: none;
+    margin-bottom: -3vw;
+}
+
+#footer { width: 100%; 
+    margin: -32px; 
+    margin-top:3vw;
+    margin-bottom: -20vw;
+    bottom: 6vw;
+    padding: 2vw; 
+    height: 6vw;
+    background-color: black}
